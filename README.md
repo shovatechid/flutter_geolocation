@@ -1,6 +1,7 @@
-# geolocation
+# Geolocation
 
-A new Flutter project.
+Source code ini dibuat untuk mengambil latitude,longitude, nama jalan, distrik, dan kode pos. Persyaratan agar aplikasi ini berfungsi adalah adanya sinyal GPS pada perangkat.
+Ketika akses internet tidak tersedia, aplikasi hanya dapat mengambil latitude,longitude,. Informasi terperinci tersedia jika perangkat memiliki akses internet.
 
 ## Getting Started
 
