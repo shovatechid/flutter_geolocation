@@ -3,6 +3,9 @@
 Source code ini dibuat untuk mengambil latitude,longitude, nama jalan, distrik, dan kode pos. Persyaratan agar aplikasi ini berfungsi adalah adanya sinyal GPS pada perangkat.
 Ketika akses internet tidak tersedia, aplikasi hanya dapat mengambil latitude,longitude,. Informasi terperinci tersedia jika perangkat memiliki akses internet.
 
+This resource was created to retrieve latitude, longitude, street name, district, and zip code. The requirement for this app to work is the presence of a GPS signal on the device.
+When internet access is not available, the application can only retrieve latitude and longitude. Detailed information is available if the device has internet access.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
