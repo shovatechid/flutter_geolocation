@@ -6,14 +6,14 @@ Ketika akses internet tidak tersedia, aplikasi hanya dapat mengambil latitude,lo
 This resource was created to retrieve latitude, longitude, street name, district, and zip code. The requirement for this app to work is the presence of a GPS signal on the device.
 When internet access is not available, the application can only retrieve latitude and longitude. Detailed information is available if the device has internet access.
 
-## Getting Started
+## Dokumentasi
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Geolocator: https://pub.dev/packages/geolocator)
+- [Geocoding: https://pub.dev/packages/geocoding)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
